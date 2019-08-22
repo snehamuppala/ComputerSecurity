@@ -34,6 +34,8 @@ way encryption. So it gives no way for decryption. AES performance is better
 compared to RSA above because AES uses same key and key size is small.
 
 
+![alt text](https://github.com/snehamuppala/ComputerSecurity/blob/master/Results.png)
+
 Mode	              Time taken 1kb-seconds	Time taken 1mb-seconds	Per-byte speed-1kb-seconds	Per-byte speed-1mb-seconds
 AES CBC Encryption-128	0.000840187	          0.010915995	              8.73E-07	                  1.10E-08
 AES CBC Decryption-128	0.000412941	          0.012589931	              3.27E-07	                  9.40E-09
