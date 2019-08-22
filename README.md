@@ -1,5 +1,6 @@
 # ComputerSecurity
 
+## Analysis
 
 1. Encryption and Decryption per byte speed for 1mb is less compared to 1kb as it
 takes time to initialise. Hashing per byte speed for 1mb files is also less compared
@@ -33,5 +34,6 @@ public key so, decryption takes more time. SHA is a hash algorithm that is one
 way encryption. So it gives no way for decryption. AES performance is better
 compared to RSA above because AES uses same key and key size is small.
 
+## Results
 
 ![alt text](https://github.com/snehamuppala/ComputerSecurity/blob/master/Results.png)
